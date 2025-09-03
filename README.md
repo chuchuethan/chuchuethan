@@ -9,13 +9,13 @@ Below you'll find all my projects <3
 
 ## Ongoing Projects: 
 ### Restraining Order or Relationship?: Corporate Romance Case Study
+- Project link: https://github.com/chuchuethan/Relationship-Or-Restraining-Order
 - Main focuses:
   - Data collection
   - Data visualization
   - Data storytelling and presentation
   - Excel
   - Tableau
-- Project link: https://github.com/chuchuethan/Relationship-Or-Restraining-Order
 
 ## Up Next: Grocery Store Analysis
 - Main focuses:
@@ -26,10 +26,10 @@ Below you'll find all my projects <3
 
 ## Completed Projects: 
 ### WiiData: Nintendo Sales Analysis
+- Project link: https://github.com/chuchuethan/WiiData
 - Main focuses:
   - Statistical testing
   - Data visualization
   - Machine learning
   - Business intelligence
   - Python (pandas, NumPy, Matplotlib, Seaborn, scipy.stats, sci-kit learn, streamlit)
-- Project link: https://github.com/chuchuethan/WiiData
