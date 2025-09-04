@@ -18,7 +18,7 @@ Below you'll find all my projects <3
   - Tableau
 
 ## Up Next:
-### 🍏 Grocery Store Analysis 🍏
+### 💦 Water Quality Analysis 💦
 - Main focuses:
   - Data cleaning
   - Data visualization
