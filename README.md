@@ -19,6 +19,7 @@ Below you'll find all my projects <3
 
 ## Up Next:
 ### 💦 Water Quality Analysis 💦
+- Project link: https://github.com/chuchuethan/Water-Quality-Analysis
 - Main focuses:
   - Data cleaning
   - Data visualization
