@@ -6,8 +6,16 @@ Let's connect on LinkedIn! https://www.linkedin.com/in/ethan-chu-93a820352/
 
 Below you'll find all my projects <3
 
+## Completed Projects: 
+### 💦 Water Quality Analysis 💦
+- Project link: https://github.com/chuchuethan/Water-Quality-Analysis
+- Main focuses:
+  - Data cleaning
+  - Data visualization
+  - Excel
+  - SQL
+  - Tableau
 
-## Ongoing Projects: 
 ### 😇 Restraining Order or Relationship?: Corporate Romance Case Study 😇
 - Project link: https://github.com/chuchuethan/Relationship-Or-Restraining-Order
 - Main focuses:
@@ -17,16 +25,6 @@ Below you'll find all my projects <3
   - Excel
   - Tableau
 
-## Up Next:
-### 💦 Water Quality Analysis 💦
-- Project link: https://github.com/chuchuethan/Water-Quality-Analysis
-- Main focuses:
-  - Data cleaning
-  - Data visualization
-  - Excel
-  - SQL
-
-## Completed Projects: 
 ### 🎮 WiiData: Nintendo Sales Analysis 🎮
 - Project link: https://github.com/chuchuethan/WiiData
 - Main focuses:
