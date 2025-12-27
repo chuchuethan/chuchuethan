@@ -8,7 +8,7 @@ Below you'll find all my projects <3
 
 ## Completed Projects: 
 ### 💦 Water Quality Analysis 💦
-- Project link: https://github.com/chuchuethan/Water-Quality-Analysis
+- [Project link](https://github.com/chuchuethan/Water-Quality-Analysis)
 - Main focuses:
   - Data cleaning
   - Data visualization
@@ -17,7 +17,7 @@ Below you'll find all my projects <3
   - Tableau
 
 ### 😇 Restraining Order or Relationship?: Corporate Romance Case Study 😇
-- Project link: https://github.com/chuchuethan/Relationship-Or-Restraining-Order
+- [Project link](https://github.com/chuchuethan/Relationship-Or-Restraining-Order)
 - Main focuses:
   - Data collection
   - Data visualization
@@ -26,7 +26,7 @@ Below you'll find all my projects <3
   - Tableau
 
 ### 🎮 WiiData: Nintendo Sales Analysis 🎮
-- Project link: https://github.com/chuchuethan/WiiData
+- [Project link](https://github.com/chuchuethan/WiiData)
 - Main focuses:
   - Statistical testing
   - Data visualization
