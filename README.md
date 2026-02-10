@@ -7,7 +7,7 @@ Let's connect on [LinkedIn!](https://www.linkedin.com/in/ethan-chu-93a820352/)
 Below you'll find all my projects <3
 
 ## Ongoing Projects:
-### [Mental Health Locations](https://github.com/chuchuethan/Mental-Health-Locations)
+### 💖 [Mental Health Locations](https://github.com/chuchuethan/Mental-Health-Locations) 💖
 - Main focuses:
   - Data cleaning
   - Data visualization
