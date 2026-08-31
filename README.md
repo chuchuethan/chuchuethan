@@ -7,21 +7,31 @@ Let's connect on [LinkedIn!](https://www.linkedin.com/in/ethan-chu-93a820352/)
 Below you'll find all my projects <3
 
 ## Ongoing Projects:
-### 💖 [Mental Health Locations](https://github.com/chuchuethan/Mental-Health-Locations) 💖
+### 💸 [Retail Therapy: Retail Clothing Trends Analysis](https://github.com/chuchuethan/Mental-Health-Locations) 💸
+- Main focuses:
+  - Business intelligence
+  - Data visualization
+  - Data storytelling
+  - Machine learning
+  - Python
+  - SQL
+  - Microsoft Power BI
+
+## Completed Projects: 
+### 💖 [Accessing Treatment: Mental Health Locations](https://github.com/chuchuethan/Mental-Health-Locations) 💖
 - Main focuses:
   - Data cleaning
   - Data visualization
   - Statistical testing
-  - Excel
-  - Power BI
   - Python
+  - Microsoft Excel
+  - Microsoft Power BI
 
-## Completed Projects: 
-### 💦 [Water Quality Analysis](https://github.com/chuchuethan/Water-Quality-Analysis) 💦
+### 💦 [A Human Right: Water Quality Analysis](https://github.com/chuchuethan/Water-Quality-Analysis) 💦
 - Main focuses:
   - Data cleaning
   - Data visualization
-  - Excel
+  - Microsoft Excel
   - SQL
   - Tableau
 
@@ -30,7 +40,7 @@ Below you'll find all my projects <3
   - Data collection
   - Data visualization
   - Data storytelling and presentation
-  - Excel
+  - Microsoft Excel
   - Tableau
 
 ### 🎮 [WiiData: Nintendo Sales Analysis](https://github.com/chuchuethan/WiiData) 🎮
