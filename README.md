@@ -4,18 +4,7 @@
 
 Let's connect on [LinkedIn!](https://www.linkedin.com/in/ethan-chu-93a820352/)
 
-Below you'll find all my projects <3
-
-## Ongoing Projects:
-### 💸 [Retail Therapy: Retail Clothing Trends Analysis](https://github.com/chuchuethan/Retail-Therapy) 💸
-- Main focuses:
-  - Business intelligence
-  - Data visualization
-  - Data storytelling
-  - Machine learning
-  - Python
-  - SQL
-  - Microsoft Power BI
+Below you'll find all of my projects
 
 ## Completed Projects: 
 ### 💖 [Accessing Treatment: Mental Health Locations](https://github.com/chuchuethan/Mental-Health-Locations) 💖
